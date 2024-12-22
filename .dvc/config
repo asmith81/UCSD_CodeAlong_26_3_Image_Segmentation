@@ -1,0 +1,4 @@
+[core]
+    remote = storage
+['remote "storage"']
+    url = s3://alden-smith-ucsd-projects/UCSD_CodeAlong_26_3_Image_Seg
