@@ -12,6 +12,9 @@ scmrepo = "^3.3.9"
 awscli = "^1.36.23"
 boto3 = "^1.35.82"
 tensorflow = "^2.18.0"
+tdqm = "^0.0.1"
+scikit-image = "^0.25.0"
+matplotlib = "^3.10.0"
 
 
 [build-system]
