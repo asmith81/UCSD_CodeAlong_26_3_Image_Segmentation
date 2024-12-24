@@ -1,4 +1,5 @@
 [core]
     remote = storage
+    autostage = true
 ['remote "storage"']
     url = s3://alden-smith-ucsd-projects/UCSD_CodeAlong_26_3_Image_Seg
